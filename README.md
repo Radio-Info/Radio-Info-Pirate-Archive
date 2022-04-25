@@ -5,7 +5,7 @@
 An Archive of Pirate Radio Stations Accross The Globe, ATM We Only Have Statinos From **Ireland**
 ## Can I Contribute A Pirate Station? 
 **Yes**
-*but* Only If You Meet The Following Criteria
+*but* Only If You Meet The Following Criteria:
  ***Its A Pirate (Broadcasting On The Radio Spectrum Illegally***
 ### Thats All You Need
 ## How Do I Submit The Details Of A Pirate Station?
